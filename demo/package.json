@@ -1,0 +1,16 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.demo"
+  },
+  "dependencies": {
+    "@nstudio/nativescript-audio-player": "file:../src",
+    "nativescript-theme-core": "~1.0.4",
+    "tns-core-modules": "~5.4.3"
+  },
+  "devDependencies": {
+    "nativescript-dev-typescript": "~0.10.0",
+    "nativescript-dev-webpack": "~0.24.0"
+  },
+  "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
+  "readme": "NativeScript Application"
+}
